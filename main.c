@@ -3,4 +3,6 @@
 int main(void)
 {
 	printf("Hello world!");
+	printf("Hello Foreach!");
+	
 }
